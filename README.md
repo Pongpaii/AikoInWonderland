@@ -1,8 +1,13 @@
+* PLEASE DOWNLOAD THE GAME FILE FROM THE GOOGLE DRIVE *
+
 GAME : https://drive.google.com/drive/folders/1CCTDU_4P3VRkaKtT14dOiELWrm-ZycNU?usp=drive_link
 
-UNITY FILE : https://drive.google.com/drive/folders/1yUV62CXMj7d26DZ7OtcWxpltmS4NuRRE?usp=drive_link
 
 VIDEO PRESENTATION : https://youtu.be/FAawvJ10h1Y
+
+* For Unity *
+UNITY FILE : https://drive.google.com/drive/folders/1yUV62CXMj7d26DZ7OtcWxpltmS4NuRRE?usp=drive_link
+
 
 2213211465 เจียรยุทธ์ กาญจนสินเกษม
 
