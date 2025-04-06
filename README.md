@@ -1,11 +1,18 @@
-* PLEASE DOWNLOAD THE GAME FILE FROM THE GOOGLE DRIVE *
+* PLEASE DOWNLOAD THE GAME FILE FROM THE GOOGLE DRIVE 
+  
 OPEN THE GAME BY : MyProject(24).exe :) HAVE FUN
+
 GAME : https://drive.google.com/drive/folders/1CCTDU_4P3VRkaKtT14dOiELWrm-ZycNU?usp=drive_link
+
+
 
 
 VIDEO PRESENTATION : https://youtu.be/FAawvJ10h1Y
 
-* For Unity *
+
+
+* For Unity 
+  
 UNITY FILE : https://drive.google.com/drive/folders/1yUV62CXMj7d26DZ7OtcWxpltmS4NuRRE?usp=drive_link
 
 
