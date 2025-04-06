@@ -1,5 +1,5 @@
 * PLEASE DOWNLOAD THE GAME FILE FROM THE GOOGLE DRIVE *
-
+OPEN THE GAME BY : MyProject(24).exe :) HAVE FUN
 GAME : https://drive.google.com/drive/folders/1CCTDU_4P3VRkaKtT14dOiELWrm-ZycNU?usp=drive_link
 
 
